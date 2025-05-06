@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhimavarapu Saiteja</h1>
+<h1 align="center">Hello, I'm Bhimavarapu Saiteja</h1>
 <h3 align="center">Proactive software engineer with valuable experience from internships. Successfully contributed to innovative projects, including personalized product recommendations and election campaign tools. Eager to apply foundational skills and a strong academic background to a supportive and growth-oriented tech environment.</h3>
 
 - 🌱 I’m currently learning Machine learning and Data Science **mainly packages like Scikit-learn,Numpy,Tensorflow,Matplotlib**
